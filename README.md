@@ -4,7 +4,7 @@ This project analyzes COVID-19 data using **Python, Pandas, Matplotlib, Seaborn,
 
 ## Files
 - `covid_analysis.ipynb` → Jupyter notebook with analysis and visualizations.
-- `data.csv` → Dataset used (if uploaded, otherwise link it here).
+
 
 ## Features
 - Data cleaning (missing values, duplicates, outliers)
